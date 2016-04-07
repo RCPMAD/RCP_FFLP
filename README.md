@@ -1,2 +1,1 @@
-# RCP_FFLP
-Fortinet Fortigate Log Parser (FFLP)
+# Fortinet Fortigate Log Parser (FFLP)
